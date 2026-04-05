@@ -23,7 +23,8 @@ Early detection of plant diseases is vital for global food security. This projec
   - Model building and summary.
   - Training and validation performance logs.
   - Real-time inference script using OpenCV.
-
+## The link of the dataset
+  https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
